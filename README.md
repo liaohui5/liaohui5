@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=F70202&width=350&lines=Hi%2C+%F0%9F%91%8B+I'm+liaohui;Welcome+to+my+Github+profile)](https://github.com/liaohui5)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&pause=1000&color=F70000&center=true&vCenter=true&width=360&lines=Welcome+to+my+github+profile;have+a+nice+day)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,24 +8,24 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liaohui5/liaohui5/assets/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
 <p align="center" style="font-size: 24px;">🚀 A FullStack Developer</p>
-<p align="center">Writing code to build solutions</p>
-
-<p align="center">
-  <strong>JavaScript | Python | Go | Rust | PHP</strong>
-</p>
+<p align="center">Writing code to build solutions and discover some interesting things</p>
 
 <div align="center">
 
-![ProfileView](https://komarev.com/ghpvc/?username=liaohui5&style=flat&color=brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JS&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -50,7 +50,7 @@
 
 #### 🌐 Frontend
 
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,vue,pinia,vitest,pnpm,rollupjs,vite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,less,sass,tailwind,jquery,vue,pinia,vitest,pnpm,rollupjs,vite)](https://skillicons.dev)
 
 #### 🎯 Backend
 
