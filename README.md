@@ -8,7 +8,7 @@
 
 <div align="center">
   <picture>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liaohui5/liaohui5/assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liaohui5/liaohui5/refs/heads/main/assets/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
