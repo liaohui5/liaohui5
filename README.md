@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img align="center" src="https://raw.githubusercontent.com/liaohui5/liaohui5/refs/heads/main/assets/coding-by-penguins.gif" width="500" />
 </div>
 
 <br/>
