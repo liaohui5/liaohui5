@@ -52,7 +52,7 @@
 
 #### 🌐 Frontend
 
-[![Skills](https://skillicons.dev/icons?i=html,css,less,sass,tailwind,jquery,vue,pinia,vitest,pnpm,rollupjs,vite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,less,sass,tailwind,jquery,vue,pinia,vitest,pnpm,rollupjs,vite,electron,tauri)](https://skillicons.dev)
 
 #### 🎯 Backend
 
